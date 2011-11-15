@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>classVariableName</key>
+		<string>amount</string>
+		<key>type</key>
+		<string>int</string>
+		<key>variableName</key>
+		<string>Amount</string>
+	</dict>
+	<dict>
+		<key>classVariableName</key>
+		<string>fader</string>
+		<key>type</key>
+		<string>float</string>
+		<key>variableName</key>
+		<string>Fader</string>
+	</dict>
+	<dict>
+		<key>classVariableName</key>
+		<string>name</string>
+		<key>type</key>
+		<string>NSString</string>
+		<key>variableName</key>
+		<string>Stringe</string>
+	</dict>
+	<dict>
+		<key>classVariableName</key>
+		<string>circle</string>
+		<key>type</key>
+		<string>BOOL</string>
+		<key>variableName</key>
+		<string>Circle</string>
+	</dict>
+</array>
+</plist>
